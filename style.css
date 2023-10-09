@@ -1,0 +1,61 @@
+
+body{
+    background-image: url(./background-color.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbarimg{
+    width: 25px;
+    height: 20px;
+}
+
+.gender{
+    display: flex;
+}
+.container{
+    padding-top: 20px;
+}
+.tagline{
+    position: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 100;
+    margin-left: 200px;
+    letter-spacing: 2px;
+}
+footer{
+    display: flex;
+}
+.communication{
+    display: flex;
+}
+.facebook{
+    padding-left: 60%;
+}
+.instagram{
+    padding-left: 5%;
+}
+.contact{
+    padding-left: 5%;
+}
+.Men {
+    background-color: rgb(246, 230, 196);
+    font-size: 40px;
+    font-family: cursive;
+    color: red;
+    border-color:  rgb(246, 230, 196);
+}
+.Women {
+    background-color: rgb(246, 230, 196);
+    font-size: 40px;
+    font-family: cursive;
+    color: red;
+    border-color:  rgb(246, 230, 196);
+}
+.logo{
+    height: 40px;
+    width: 40px;
+}
